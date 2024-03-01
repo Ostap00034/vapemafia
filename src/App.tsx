@@ -36,11 +36,11 @@ const App = () => {
 							Контактные данные
 						</div>
 						<div className='text-[#848484] flex flex-row pt-[20px] text-[14px]'>
-							<strong>Гранд сити: </strong>
+							<strong>Гранд сити:</strong>{' '}
 							<div className='underline'>+7 (924) 567-66-88</div>
 						</div>
 						<div className='text-[#848484] flex flex-row text-[14px]'>
-							<strong>Проспект Ленина 6: </strong>
+							<strong>Проспект Ленина 6:</strong>{' '}
 							<div className='underline'>+7 (924) 174-88-71</div>
 						</div>
 						<div className='text-[#848484] pt-[20px] text-[14px]'>
