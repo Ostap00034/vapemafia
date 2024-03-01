@@ -35,13 +35,17 @@ const App = () => {
 						<div className='text-[#848484] text-[14px] pt-[25px]'>
 							Контактные данные
 						</div>
-						<div className='text-[#848484] flex flex-row pt-[20px] text-[14px]'>
+						<div className='text-[#848484] pt-[20px] text-[14px]'>
 							<strong>Гранд сити:</strong>{' '}
-							<div className='underline'>+7 (924) 567-66-88</div>
+							<a href='tel:+79245676688' className='underline'>
+								+7 (924) 567-66-88
+							</a>
 						</div>
-						<div className='text-[#848484] flex flex-row text-[14px]'>
+						<div className='text-[#848484] text-[14px]'>
 							<strong>Проспект Ленина 6:</strong>{' '}
-							<div className='underline'>+7 (924) 174-88-71</div>
+							<a href='tel:+79241748871' className='underline'>
+								+7 (924) 174-88-71
+							</a>
 						</div>
 						<div className='text-[#848484] pt-[20px] text-[14px]'>
 							Якутск, 2024
