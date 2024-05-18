@@ -42,7 +42,7 @@ const App = () => {
 							</a>
 						</div>
 						<div className='text-[#848484] text-[14px]'>
-							<strong>Проспект Ленина 6:</strong>{' '}
+							<strong>Проспект Ленина 6г:</strong>{' '}
 							<a href='tel:+79241748871' className='underline'>
 								+7 (924) 174-88-71
 							</a>
